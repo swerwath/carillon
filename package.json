@@ -1,0 +1,21 @@
+{
+  "name" : "carillon",
+  "version" : "0.0.1",
+  "author" : "Scott Werwath <swerwath@berkeley.edu>",
+  "description" : "Diagnostic dev console for Socket.io",
+  "keywords": [
+    "remote",
+    "monitoring",
+    "diagnostic",
+    "debugging",
+    "websockets",
+    "sockets",
+    "socket.io"
+  ],
+  "main" : "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/swerwath/carillon"
+  },
+  "license" : "MIT"
+}
